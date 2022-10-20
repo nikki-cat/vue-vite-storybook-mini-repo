@@ -114,8 +114,6 @@ _Workaround procedure_
 
    ```
 
-   Although in my case, the view is still glitchy and seems like style isnt loaded correctly. I still get "Failed to load resource" in the browser. And for example, the ouit-of-the-box button does not react to being clicked on as on.
-
    ## System information
 
 ```log
